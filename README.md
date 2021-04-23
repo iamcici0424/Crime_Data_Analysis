@@ -1,4 +1,4 @@
-# <img width="45" src=pics/crime.jpg> Crime_Data_Analysis
+# <img width="45" src=pics/crime.png> Crime_Data_Analysis
 
 ## Introduction
 
