@@ -1,4 +1,4 @@
-# <img width="45" src=pics/crime.jpg> Crime_Data_Analysis
+# <img width="45" src=pics/crime.png> Crime_Data_Analysis
 
 ## Introduction
 
@@ -22,13 +22,8 @@ Besides 21 predictors, we have created 4 new variables by dividing the area, the
 
 
 <p align="center">
-  <img width="450" src=pics/1.jpg>
+  <img width="400" src=pics/1.jpg><img width="400" src=pics/2.jpg>
 </p>
-
-<p align="center">
-  <img width="450" src=pics/2.jpg>
-</p>
-
 
 
 
