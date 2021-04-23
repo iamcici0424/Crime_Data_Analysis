@@ -22,13 +22,8 @@ Besides 21 predictors, we have created 4 new variables by dividing the area, the
 
 
 <p align="center">
-  <img width="450" src=pics/1.jpg>
+  <img width="450" src=pics/1.jpg><img width="450" src=pics/2.jpg>
 </p>
-
-<p align="center">
-  <img width="450" src=pics/2.jpg>
-</p>
-
 
 
 
